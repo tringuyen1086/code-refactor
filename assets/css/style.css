@@ -1,10 +1,10 @@
-/* Universal selector for all elements */
+/* set for all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* set the background color */
+/* set the background color for the website */
 body {
     background-color: #d9dcd6;
 }
